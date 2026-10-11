@@ -59,11 +59,3 @@ Compatible avec **tous les jeux et applications** : Fortnite, Minecraft, Roblox,
 6. UAC : clique **Oui**
 
 **Aucune installation requise.** Python, OpenCV et toutes les dépendances sont embarqués.
-
-### Méthode 2 — Depuis les sources
-
-```bash
-git clone https://github.com/AmbTAlpha/AutoClickerPro.git
-cd AutoClickerPro
-pip install PySide6 opencv-python mss numpy pyinstaller
-python AutoClicker_Pro.py
