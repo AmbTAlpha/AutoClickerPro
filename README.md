@@ -88,13 +88,14 @@ Pour afficher tes propres Pokémons en fond d'écran avec le thème **Pokémon**
 
 Structure :
 
+```text
 AutoClicker/
 ├── AutoClickerPro.exe
 └── pokemon/
-├── pikachu.png
-├── charmander.png
-└── ...
-
+    ├── pikachu.png
+    ├── charmander.png
+    └── ...
+```
 ---
 
 ## ⚠️ Avertissement
@@ -121,13 +122,14 @@ Ouvre une [**Issue**](../../issues) avec :
 
 Tout est stocké dans :
 
-%APPDATA%\AutoClickerPro
-├── profiles.json ← tes profils
-├── settings.json ← réglages généraux
-├── stats.json ← statistiques
-├── autoclicker.log ← logs
-└── target_template.png ← cible image
-
+```text
+%APPDATA%\AutoClickerPro\
+├── profiles.json         ← tes profils
+├── settings.json         ← réglages généraux
+├── stats.json            ← statistiques
+├── autoclicker.log       ← logs
+└── target_template.png   ← cible image
+```
 
 ---
 
