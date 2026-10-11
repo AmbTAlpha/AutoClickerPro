@@ -1,6 +1,6 @@
 # ⚡ AutoClicker Pro
 
-![Version](https://img.shields.io/badge/version-2.3-blue)
+![Version](https://img.shields.io/badge/version-2.4-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
 
 **Autoclicker Windows moderne** avec **détection d'image**, **retour caméra automatique** et **29 thèmes animés**.
