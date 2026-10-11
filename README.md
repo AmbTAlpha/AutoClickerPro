@@ -58,4 +58,4 @@ Compatible avec **tous les jeux et applications** : Fortnite, Minecraft, Roblox,
 5. Au 1er lancement : Windows peut demander *« Exécuter quand même »* → clique dessus
 6. UAC : clique **Oui**
 
-**Aucune installation requise.** Python, OpenCV et toutes les dépendances sont embarqués.
+**Aucune installation requise.**
