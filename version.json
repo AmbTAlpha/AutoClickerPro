@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v2.4/AutoClickerPro.exe",
-  "notes": "Zone ROI + Multi-langues (FR/EN). Aide complète."
+  "version": "2.5",
+  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v2.5/AutoClickerPro.exe",
+  "notes": "Fix rotation caméra en mode Image. Jitter étendu à 200 px."
 }
