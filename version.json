@@ -1,5 +1,6 @@
 {
-  "version": "2.5",
-  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v2.5/AutoClickerPro.exe",
-  "notes": "Fix rotation caméra en mode Image. Jitter étendu à 200 px."
+  "version": "2.6",
+  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v2.6/AutoClickerPro.exe",
+  "notes": "Correction du retour caméra : le personnage revient automatiquement devant la machine après avoir ramassé une carte. Suppression du seuil de détection. Ajout de la case 'Activer la détection de cible'.",
+  "date": "2026-10-12"
 }
