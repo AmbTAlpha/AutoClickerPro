@@ -1,6 +1,6 @@
 {
-  "version": "2.6",
-  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v2.6/AutoClickerPro.exe",
-  "notes": "Correction du retour caméra : le personnage revient automatiquement devant la machine après avoir ramassé une carte. Suppression du seuil de détection. Ajout de la case 'Activer la détection de cible'.",
-  "date": "2026-10-12"
+  "version": "3.1",
+  "url": "https://github.com/AmbTAlpha/AutoClickerPro/releases/download/v3.1/AutoClickerPro.exe",
+  "notes": "Grosse mise a jour : retour camera intelligent, detection de cible amelioree",
+  "date": "2026-10-13"
 }
